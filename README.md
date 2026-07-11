@@ -14,39 +14,31 @@
 
 <h3 align="center">🌐 Connect With Me</h3>
 
-<div align="center">
+<p align="center">
 
-<table>
-<tr>
-
-<td align="center">
 <a href="https://www.linkedin.com/in/rejina-pokharel-b410003b0">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</td>
 
-<td align="center">
+&nbsp;&nbsp;
+
 <a href="https://www.facebook.com/profile.php?id=61576699736325">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-</td>
 
-<td align="center">
+&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/rejina_pokharel/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</td>
 
-<td align="center">
+&nbsp;&nbsp;
+
 <a href="#">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-</td>
 
-</tr>
-</table>
-
-</div>
+</p>
 
 
 <p align="center">
@@ -58,12 +50,14 @@
 </p>
 
 
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=550&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+%26+Digital+Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+%26+Digital+Skills" />
 </p>
 
 
 <div align="center">
+
 
 <h4>🚀 Frontend & Mobile Development</h4>
 
@@ -88,8 +82,8 @@
 
 <h4>📈 Digital Marketing & Growth</h4>
 
-<img src="https://img.shields.io/badge/Social%20Media%20Management-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Social%20Media%20Management-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Content%20Creation-FFB000?style=for-the-badge&logo=blogger&logoColor=white"/>
 
 
@@ -102,4 +96,68 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
+
 </div>
+
+
+
+<p align="center">
+════════════════════════════════════
+<br>
+══════════════════════
+<br>
+════════════
+</p>
+
+
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+GitHub+Analytics" />
+</p>
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pokharel-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pokharel-7&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pokharel-7&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
+
+<p align="center">
+════════════════════════════════════
+<br>
+══════════════════════
+<br>
+════════════
+</p>
+
+
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=%E2%96%B8+Contribution+Activity" />
+</p>
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pokharel-7&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+<p align="center">
+════════════════════════════════════
+<br>
+══════════════════════
+<br>
+════════════
+</p>
