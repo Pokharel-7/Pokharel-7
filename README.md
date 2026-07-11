@@ -12,26 +12,26 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rejina-pokharel-b410003b0/">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>
+<a href="https://www.linkedin.com/in/rejina-pokharel-b410003b0">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://www.facebook.com/profile.php?id=61576699736325">
-<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="35"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://www.instagram.com/rejina_pokharel/">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="#">
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="35"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<h4><b>🚀 Frontend & Mobile Development</b></h4>
+<h4>🚀 Frontend & Mobile Development</h4>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -61,7 +61,7 @@
 <br><br>
 
 
-<h4><b>🎨 UI/UX & Creative Design</b></h4>
+<h4>🎨 UI/UX & Creative Design</h4>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -70,7 +70,7 @@
 <br><br>
 
 
-<h4><b>📈 Digital Marketing & Growth</b></h4>
+<h4>📈 Digital Marketing & Growth</h4>
 
 <img src="https://img.shields.io/badge/Social%20Media%20Management-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
@@ -80,7 +80,7 @@
 <br><br>
 
 
-<h4><b>🔧 Tools & Workflow</b></h4>
+<h4>🔧 Tools & Workflow</h4>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
