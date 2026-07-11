@@ -4,7 +4,11 @@
 
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━
+════════════════════════════════════
+<br>
+══════════════════════
+<br>
+════════════
 </p>
 
 
@@ -46,12 +50,16 @@
 
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━
+════════════════════════════════════
+<br>
+══════════════════════
+<br>
+════════════
 </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=550&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+%26+Digital+Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=550&lines=%F0%9F%9B%A0%EF%B8%8F+Technical+%26+Digital+Skills" />
 </p>
 
 
