@@ -8,6 +8,6 @@
 
 🎨 Passionate about UI/UX Design
 
-🌱 Currently learning React Native, Firebase, and Git
+🌱 Currently learning React Native, and Git and many more
 
 Welcome to my GitHub profile! 🚀
