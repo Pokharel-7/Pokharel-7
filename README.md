@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93+BCA+Student;%F0%9F%93%B1+React+Native+Mobile+UI+Developer;%F0%9F%93%88+Head+of+Digital+Marketing+at+Everacy+Tech;%F0%9F%8E%A8+Passionate+about+UI%2FUX+Design;%F0%9F%9A%80+Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93+BCA+Student;%F0%9F%93%B1+React+Native+Mobile+UI+Developer;%F0%9F%93%88+Head+of+Digital+Marketing;%F0%9F%8E%A8+Passionate+about+UI%2FUX+Design;%F0%9F%9A%80+Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
