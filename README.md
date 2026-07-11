@@ -132,7 +132,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pokharel-7&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
 
 
 
