@@ -99,3 +99,79 @@
 <br>
 ══════════════════════
 </p>
+
+
+<p align="center">
+════════════════════════════════════
+<br>
+══════════════════════
+</p>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=%F0%9F%93%81+Featured+Projects" />
+</p>
+
+
+<div align="center">
+
+
+<h3>💳 Student Billing System</h3>
+
+<p>
+A billing management system designed to handle student records, payment tracking, and academic billing operations efficiently.
+</p>
+
+<img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
+<br><br>
+
+
+<h3>🏨 CordialSuite - Hotel Management System</h3>
+
+<p>
+A complete hotel management solution for handling room booking, customer information, billing, and daily hotel operations.
+</p>
+
+<img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+
+<br><br>
+
+
+<h3>🐾 PawfectMatch - Animal Adoption Platform</h3>
+
+<p>
+A user-friendly animal adoption platform concept that helps connect pets with potential adopters.
+</p>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML%20%7C%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
+<br><br>
+
+
+<h3>📱 Planify - Task Management App</h3>
+
+<p>
+A React Native mobile application focused on productivity with authentication, task management, navigation, and Firebase integration.
+</p>
+
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+
+</div>
+
+
+<p align="center">
+════════════════════════════════════
+<br>
+══════════════════════
+</p>
