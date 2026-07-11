@@ -62,12 +62,11 @@ Welcome to my GitHub profile! 🚀
 
 
 
-
 <h3 align="center">▸ Technical & Digital Skills</h3>
 
-<p align="center">
+<div align="center">
 
-<b>🚀 Frontend & Mobile Development</b><br><br>
+<h4>🚀 Frontend & Mobile Development</h4>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -77,14 +76,14 @@ Welcome to my GitHub profile! 🚀
 
 <br><br>
 
-<b>🎨 Design & Creative Tools</b><br><br>
+<h4>🎨 Design & Creative Tools</h4>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 <br><br>
 
-<b>📈 Digital Marketing</b><br><br>
+<h4>📈 Digital Marketing</h4>
 
 <img src="https://img.shields.io/badge/Social%20Media%20Management-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
@@ -92,10 +91,10 @@ Welcome to my GitHub profile! 🚀
 
 <br><br>
 
-<b>🔧 Tools & Workflow</b><br><br>
+<h4>🔧 Tools & Workflow</h4>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-</p>
+</div>
