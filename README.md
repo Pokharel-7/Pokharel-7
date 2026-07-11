@@ -8,6 +8,14 @@
 ══════════════════════
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pokharel-7&label=Profile+Views&color=4FC3F7&style=for-the-badge" />
+</p>
+
+
+
+
 <h3 align="center">🌐 Connect With Me</h3>
 
 <div align="center">
