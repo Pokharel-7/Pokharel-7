@@ -172,3 +172,27 @@ A React Native mobile application focused on productivity with authentication, t
 <br>
 ══════════════════════
 </p>
+
+
+
+
+
+<p align="center">
+════════════════════════════════════
+<br>
+══════════════════════
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&lines=%F0%9F%90%8D+Contribution+Snake" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pokharel-7/Pokharel-7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+════════════════════════════════════
+<br>
+══════════════════════
+</p>
