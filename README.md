@@ -82,7 +82,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pokharel-7&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rejinaaa-29&theme=tokyonight&hide_border=true" />
 
 </div>
 
